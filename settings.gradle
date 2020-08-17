@@ -1,0 +1,3 @@
+include ':jnretrofit'
+include ':app'
+rootProject.name = "myretrofit"
